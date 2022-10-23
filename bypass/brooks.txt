@@ -1,0 +1,4 @@
+brook://wssserver?insecure=true&password=24skyjos35&username=&wssserver=wss%3A%2F%2Fvenus6.para.pub%3A443
+brook://wssserver?insecure=true&password=24skyjos35&username=&wssserver=wss%3A%2F%2Fvenus.para.pub%3A443
+brook://wssserver?insecure=true&password=24skyjos35&username=&wssserver=wss%3A%2F%2Fmars6.para.pub%3A443
+brook://wssserver?insecure=true&password=24skyjos35&username=&wssserver=wss%3A%2F%2Fmars.para.pub%3A443
